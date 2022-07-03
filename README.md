@@ -1,7 +1,7 @@
 # CalculadoraApp
  Calculador de Proporcional e de Mudanças de Plano
  
-Planos - Valores - Valores por Dia
+Planos - Valores - Valores por Dia \n
 20Mbps - R$49,90 - R$1,66
 25Mbps - R$59,90 - R$1,99
 30Mbps - R$69,90 - R$2,33
