@@ -9,7 +9,7 @@ public class TesteMudancaPlano {
         int mesRef, planoEsc1, planoEsc2, dataMud, dataPag;
         
         do{
-           System.out.println("Qual o Mês da Instalação: ");//solicita o mes da operação
+           System.out.println("Qual o Mês de Referência:");//solicita o mes da operação
            mesRef = scanf.nextInt();
             
         }while(mesRef < 1 || mesRef > 12);
@@ -19,7 +19,7 @@ public class TesteMudancaPlano {
         int qt = qtdDias.getQuantidadeDias();
         
         do{
-            System.out.println("Digite qual o plano Escolhido");//insere o plano: 20, 25, 30, 40, 100, 200 e 400Mbps
+            System.out.println("Digite qual o plano Atual");//insere o plano: 20, 25, 30, 40, 100, 200 e 400Mbps
             planoEsc1 = scanf.nextInt();
         }while(planoEsc1 != 20 && planoEsc1 != 25 && planoEsc1 != 30 && planoEsc1 != 40 && planoEsc1 != 100 && planoEsc1 != 200 && planoEsc1 != 400);
         
@@ -28,7 +28,7 @@ public class TesteMudancaPlano {
         double vp1 = valorPlano.getValoresPlanos();
         
         do{
-            System.out.println("Digite qual o plano Escolhido");//insere o plano: 20, 25, 30, 40, 100, 200 e 400Mbps
+            System.out.println("Digite qual o novo plano Escolhido");//insere o plano: 20, 25, 30, 40, 100, 200 e 400Mbps
             planoEsc2 = scanf.nextInt();
         }while(planoEsc2 != 20 && planoEsc2 != 25 && planoEsc2 != 30 && planoEsc2 != 40 && planoEsc2 != 100 && planoEsc2 != 200 && planoEsc2 != 400);
         
