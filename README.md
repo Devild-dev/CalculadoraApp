@@ -18,15 +18,23 @@ Planos - Valores - Valores por Dia
 400Mbps - R$149,90 - R$4,99
 
 Para calcular o proporcional:
+
 1 - precisa do plano
+
 2 - mês de instalação 
+
 3 - data da instalação 
+
 4 - data de pagamento 
 
 Para calcular o Aumento ou a diminuição de plano (upgrade ou downgrade).
 
 1 - mês de referência
+
 2 - data do pagamento
+
 3 - data de mudança
+
 4 - plano antigo
+
 5 - novo plano
